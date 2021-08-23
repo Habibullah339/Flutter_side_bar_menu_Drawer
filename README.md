@@ -1,6 +1,6 @@
 # side_navigation_in_flutter
 
-Side Navigation using Drawer in Flutter.<br>
+Side Navigation using Drawer in Flutter.<br><br>
 <img src="https://user-images.githubusercontent.com/73570477/130484478-441a3328-cd44-45ac-853c-4de983cbf769.gif">
 ## Getting Started
 
