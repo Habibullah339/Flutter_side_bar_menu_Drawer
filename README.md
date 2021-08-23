@@ -1,7 +1,7 @@
 # side_navigation_in_flutter
 
 A new Flutter project.
-
+<img src="https://user-images.githubusercontent.com/73570477/130484478-441a3328-cd44-45ac-853c-4de983cbf769.gif">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
